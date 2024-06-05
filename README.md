@@ -21,8 +21,7 @@ List of features in the app.
 2. Countdown for push notification noticed they aren't moving.
 
 # Demo
-
-<img width="256" alt="Screenshot 2024-04-19 at 12 39 22" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/b0d95373-320c-494f-b2f9-253173b9b360">
-<img width="259" alt="Screenshot 2024-04-19 at 12 39 59" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/b0ff6180-01d7-47d7-aba5-b76ca3b71039">
-<img width="247" alt="Screenshot 2024-04-19 at 12 39 45" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/2b2cc43e-955a-4718-aaab-0e4893179bbf">
-<img width="238" alt="Screenshot 2024-04-19 at 12 39 03" src="https://github.com/khoi101digital/DTHomeAssignment/assets/38206642/a79ce852-ca7f-427b-9268-314da91eb53a">
+<img width="259" alt="Screenshot 2024-06-05 at 10 41 42" src="https://github.com/KhoiVVAPer/LocationTrackingTest/assets/38206642/e4f49a62-60fe-4bf6-a2df-04d5babec1eb">
+<img width="258" alt="Screenshot 2024-06-05 at 10 42 02" src="https://github.com/KhoiVVAPer/LocationTrackingTest/assets/38206642/2e570da2-3a36-4955-bc55-f15e915477bf">
+<img width="247" alt="Screenshot 2024-06-05 at 10 42 28" src="https://github.com/KhoiVVAPer/LocationTrackingTest/assets/38206642/354a3943-af29-4e02-9b76-3a4928cf7446">
+<img width="242" alt="Screenshot 2024-06-05 at 10 42 39" src="https://github.com/KhoiVVAPer/LocationTrackingTest/assets/38206642/95448f9e-bc91-48d8-b8a2-0dbc4b2e276f">
