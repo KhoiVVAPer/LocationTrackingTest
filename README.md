@@ -1,6 +1,6 @@
 # Supported features
 
-List of features in the app.
+List of features in the app:
 
 **Location screen:**
 
